@@ -1,5 +1,5 @@
 <p align="center"> <a href="https://www.w3schools.com/cs/" target="_blank"> 
-  <img src="https://user-images.githubusercontent.com/61988280/104351776-dff5c700-5516-11eb-8efd-0bb7c02e9909.gif" /> </a> 
+  <img src="https://user-images.githubusercontent.com/61988280/104352599-ed5f8100-5517-11eb-8590-2c9ca273f967.gif" /> </a> 
 
 
 
