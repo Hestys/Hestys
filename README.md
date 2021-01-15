@@ -5,6 +5,6 @@
 
 <h3 align="center">Connect with me:</h3>
 <p align="center">
-<a href="https://twitter.com/karabogacihat" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg" alt="karabogacihat" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/chtkb" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="chtkb" height="30" width="40" /></a>
+<a href="https://twitter.com/karabogacihat" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg" alt="karabogacihat" height="35" width="40" /></a>
+<a href="https://linkedin.com/in/chtkb" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="chtkb" height="35" width="40" /></a>
 </p>
